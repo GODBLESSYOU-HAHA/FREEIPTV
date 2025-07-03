@@ -1,0 +1,1010 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="US: NBA TV" tvg-name="USA NBA TV UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA🏀",USA NBA TV UHD
+http://fl5.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA🏀",NBA TV PHILIPPINES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NBA🏀",NBA LIVE
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTpe0Qn.jpeg" group-title="PH CHANNELS🇵🇭",4K TRAVEL
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hVdhGtP.jpeg" group-title="PH CHANNELS🇵🇭",A2Z/ABS CBN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jNO5leA.jpeg" group-title="PH CHANNELS🇵🇭",ALLTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y72cpVe.jpeg" group-title="PH CHANNELS🇵🇭",BUKO CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gunrzqA.jpeg" group-title="PH CHANNELS🇵🇭",CELESTIAL MOVIE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1  tvg-name="Cinema One Global" tvg-id="Cinema.One.ph" tvg-logo="https://i.imgur.com/hJ6MBiA.png" group-title="PH CHANNELS🇵🇭",Cinema One Global
+http://ott.udptv.net/stream/iptv/cinemaoneglobal/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cc2IX1B.jpeg" group-title="PH CHANNELS🇵🇭",CINEMA ONE PH
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1  tvg-name="Cinemo Global" tvg-id="CINEMO!.ph" tvg-logo="https://i.imgur.com/4xDiXMP.png" group-title="PH CHANNELS🇵🇭",Cinemo Global
+http://ott.udptv.net/stream/iptv/cinemoglobal/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M0RqIt0.png" group-title="PH CHANNELS🇵🇭",CINEMO PH
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Ao4mq5.jpeg" group-title="PH CHANNELS🇵🇭",DZBB SUPER RADYO
+https://dzbb.iyadix.workers.dev/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmruE2q.png" group-title="PH CHANNELS🇵🇭",GMA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZfWL7vL.jpeg" group-title="PH CHANNELS🇵🇭",GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1  tvg-name="Heart of Asia" tvg-id="iptv/heartofasia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Heart_of_Asia_logo.svg/400px-Heart_of_Asia_logo.svg.png" group-title="PH CHANNELS🇵🇭",Heart of Asia
+https://ott.udptv.net/stream/iptv/heartofasia/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WOkt09q.jpeg" group-title="PH CHANNELS🇵🇭",IBC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001089/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1  tvg-name="iHeart Movies" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Iheartmovies1.png" group-title="PH CHANNELS🇵🇭",iHeart Movies
+https://ott.udptv.net/stream/iptv/iheartmovies/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7gWLCuv.jpeg" group-title="PH CHANNELS🇵🇭",JEEPNEY TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tE3we0i.jpeg" group-title="PH CHANNELS🇵🇭",KAPAMILYA CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kxVXnbi.png" group-title="PH CHANNELS🇵🇭", One News HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3FdQQBi.png" group-title="PH CHANNELS🇵🇭",ONE PH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jdJL0ri.jpeg" group-title="PH CHANNELS🇵🇭",ONE SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A696C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="PH CHANNELS🇵🇭", One Sports+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J3uRUJ9.png" group-title="PH CHANNELS🇵🇭",PBA RUSH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21TcLpj.jpeg" group-title="PH CHANNELS🇵🇭",PBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
+#EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://i.imgur.com/oK0CUwH.jpeg" group-title="PH CHANNELS🇵🇭", RPTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+#EXTINF:-1 group-title="PH CHANNELS🇵🇭" tvg-id="SineManila" tvg-logo="https://i.imgur.com/lGEs9vn.png" tvg-name="SineManila",SineManila
+https://stream.gia.tv/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/A9E09C52-721F-4316-ABB9-35EF145B69C0/0-16x9.jpg?width=203" group-title="PH CHANNELS🇵🇭", Tagalog Movie Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IykIG0z.jpeg" group-title="PH CHANNELS🇵🇭",Thrill
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EuWJlRW.png" group-title="PH CHANNELS🇵🇭",TV5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6zJFtcA.png" group-title="PH CHANNELS🇵🇭", tvN Movies Pinoy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUl0Cj7.png" group-title="PH CHANNELS🇵🇭", tvN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A869A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="PH CHANNELS🇵🇭", UAAP Varsity Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3LtrRn3.jpeg" group-title="PH CHANNELS🇵🇭",VIVA CINEMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2V248Dk.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ABC AUSTRALIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=389497f9f8584a57b234e27e430e04b7:3b85594c7f88604adf004e45c03511c0
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/adult-swim.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Adult Swim
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2q2u9wn.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWuHmK2.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",All Reality WETV
+https://amc-absolutereality-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jTvh9T4.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AMERICA FUNNIEST VIDEO
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bc4AKhb.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",American Ninja Warrior
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_desktopweb_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads._fw_vcid2=512116:413d7e29-b63e-b34e-b143-bf0efe32f394&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Game%20Shows&ads._fw_content_language=en&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.appVersion=2.18.1&ads.appName=xumo&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318&ads._fw_ifa_type=dpid&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bvnn6Zu.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",America's Got Talent
+https://dhkq1p9audihq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PkOXfip.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",American idol
+https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pHxWYM0.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ARIRANG HD
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlV0WAr.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AsianCrush
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8?app_bundle=https://www.asiancrush.com&app_name=asiancrush&app_store_url=&url=https://www.asiancrush.com&genre=Documentary,Independent,Sci-Fi%20&%20Fantasy,Kids%20&%20Family,Drama,Romance,Comedy,Action%20&%20Adventure,Sports&ic=&us_privacy=1YNN&gdpr=0&gdpr_consent=0&did=vir_webe2f1f1c449b2b43d72e1a991a25f2666&dnt=1&coppa=0
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ASPiRE.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire",Aspire
+http://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="BET.Jams.(BETJ).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-name="BET Jams",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1  tvg-name="Bellator MMA" tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" tvg-chno="2870" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Bellator MMA
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+#EXTINF:-1  tvg-name="Bellator MMA" tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" tvg-chno="2870" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Bellator MMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tu9eZyC.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BILLIARD TV
+https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/c4e6753c-6014-4551-bef0-f212872de6a4/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MfxFA0J.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BGT
+http://restream-live.realiptv.to:8080/live/xmltv/02a162774b/76170.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pU9yS5I.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BOXING TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v2XMPPS.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CGTN
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Asj8Tnl.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m4QhhUC.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CI USA
+https://tv.iyadix.workers.dev/57256.m3u8
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/64wlvYw.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",DISCOVERY ASIA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001334/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jc08wsK.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",DISCOVERY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
+#EXTINF:-1  tvg-name="Dog Whisperer with Cesar Millan" tvg-id="664fd48894d5580008e45e7c" tvg-logo="https://images.pluto.tv/channels/664fd48894d5580008e45e7c/colorLogoPNG.png" tvg-chno="3625" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Dog Whisperer with Cesar Millan
+https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/e4-channel.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",E4 Channel
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zNjMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vz7aybn.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FAIL ARMY
+https://pluto.xyadx.workers.dev/stitch/hls/channel/554158e864526b29254ff105/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XwfTVNa.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FIGHT TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldzygjn.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FILAM TV
+https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x7oh00D.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FOX Sports
+http://212.102.60.10/FOX_Sports_1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-name="Ghost Hunters" tvg-id="64e561a4354251000823a0e0" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" tvg-chno="1550" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Ghost Hunters
+https://jmp2.uk/plu-64e561a4354251000823a0e0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IdtrIVE.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Impossible Quiz Show
+https://dbrb49pjoymg4.cloudfront.net/10001/99991781/hls/playlist.m3u8?ads.xumo_channelId=99991781&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=BBCImpossible&ads.csid=xumo_desktopweb_BBCImpossible_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Game%20Show%2CFamily&ads._fw_content_category=IAB1-7&ads._fw_content_language=en&ads._fw_content_genre=Game%20Shows&ads._fw_content_rating=TV-PG&ads.xumo_contentId=2645&ads.xumo_contentName=BBCImpossible&ads.xumo_providerId=2645&ads.xumo_providerName=BBCImpossible&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991781&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.1&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J6r4eB5.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Just for Laugh Gags
+https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=JustForLaughsGags&ads.csid=xumo_desktopweb_JustForLaughsGags_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Comedy&ads._fw_content_category=IAB1-7&ads._fw_content_language=undefined&ads._fw_content_genre=Comedy&ads._fw_content_rating=TV-PG&ads.xumo_contentId=146&ads.xumo_contentName=JustForLaughsGags&ads.xumo_providerId=146&ads.xumo_providerName=JustForLaughsGags&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991204&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Nyitul.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Just for Laugh TV
+https://live-content.xumo.com/117/content/XM0RPSV42CWRNN/18338945/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jFmK4xA.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Kocowa K-Drama
+https://dbrb49pjoymg4.cloudfront.net/10001/99991348/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991348&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=Kocowa&ads.csid=xumo_desktopweb_Kocowa_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Action%2CAdventure%2CComedy%2CCrime%2CDrama%2CFamily%2CFantasy%2CHorror%2CMystery%2CRomance%2CSci-Fi%2CThriller%2CWar%2CWestern%2CSuperhero&ads._fw_content_category=IAB1-7&ads._fw_content_language=undefined&ads._fw_content_genre=International&ads._fw_content_rating=TV-14&ads.xumo_contentId=285&ads.xumo_contentName=Kocowa&ads.xumo_providerId=285&ads.xumo_providerName=Kocowa&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991348&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.1&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tx8rQLA.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",MasterChef US
+http://restream-live.realiptv.to:8080/live/xmltv/02a162774b/330920.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tTlzqJK.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Monster Jam
+https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ahY2dV.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Museum TV Fast
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="US: NATIONAL GEOGRAPHIC EAST" tvg-name="National Geographic East UHD" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",USA National Geographic
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMjgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="US: NATIONAL GEOGRAPHIC EAST" tvg-name="USA National Geographic Wild East UHD" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",National Geographic Wild
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NDUvbW9uby5tM3U4.m3u8
+#EXTINF:-1  tvg-name="ONE Championship TV" tvg-id="668c5d3bfd9eb2000882bb50" tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" tvg-chno="2875" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ONE Championship TV
+https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YAMQ5xA.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",People are Awesome
+https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xHnd0jJ.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Popstar! TV
+https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Pursuit.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel",Pursuit Channel
+http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLEC3ea.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",SportsGrid
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC790-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY", Tap Edge
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6624-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY", Tap Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC592-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY", Tap TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CZv3xIR.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY", TNT WRESTLING CHANNEL
+https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=AnthemSportsIMPACTWrestling&ads.csid=xumo_desktopweb_AnthemSportsIMPACTWrestling_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Sport&ads._fw_content_category=IAB17-20&ads._fw_content_language=undefined&ads._fw_content_genre=Combat%20Sports&ads._fw_content_rating=TV-PG&ads.xumo_contentId=2073&ads.xumo_contentName=AnthemSportsIMPACTWrestling&ads.xumo_providerId=2073&ads.xumo_providerName=AnthemSportsIMPACTWrestling&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991341&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT Sports 1
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-2-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT Sports 2
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-3-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT Sports 3
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-4-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT Sports 4
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-usa.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT USA
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="US: TRAVEL CHANNEL EAST" tvg-name="USA Travel East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/travel-channel-us.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Travel Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
+#EXTINF:-1 tvg-id="DLEO 02:" tvg-name="USA UFC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",UFC Network
+https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcMyAHi.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Wall of Chefs
+https://jmp2.uk/plu-62fb66c867976d0007647e54.m3u8
+#EXTINF:-1 tvg-id="WEtv.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/wetv-usa.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",WETV USA
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02NTUvbW9uby5tM3U4.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/QC8ZPjB.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Wipe out Extra
+https://dbrb49pjoymg4.cloudfront.net/10001/99951129/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951129&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=WipeoutXtra&ads.csid=xumo_desktopweb_WipeoutXtra_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Game%20Show%2CFamily&ads._fw_content_category=IAB1-7&ads._fw_content_language=undefined&ads._fw_content_genre=Game%20Shows&ads._fw_content_rating=TV-Y7&ads.xumo_contentId=3543&ads.xumo_contentName=WipeoutXtra&ads.xumo_providerId=3543&ads.xumo_providerName=WipeoutXtra&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99951129&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.1&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0RMCiKT.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Wonder TV
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/wwe-network.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",WWE Network
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zNzYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/fUam5al.jpeg" group-title="ANIME/CARTOONS👽",All Babies Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99991253/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991253&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=HooplaKids&ads.csid=xumo_desktopweb_HooplaKids_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=1&ads.genre=Family%2CComedy%2CAnimation&ads._fw_content_category=IAB6&ads._fw_content_language=undefined&ads._fw_content_genre=Kids&ads._fw_content_rating=TV-Y&ads.xumo_contentId=186&ads.xumo_contentName=HooplaKids&ads.xumo_providerId=186&ads.xumo_providerName=HooplaKids&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991253&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9A4Jde.jpeg" group-title="ANIME/CARTOONS👽",ANIMAX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05YGSf9.png" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
+https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhWvdEz.jpeg" group-title="ANIME/CARTOONS👽",ANIME * HIDAVE
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/192.m3u8
+#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/rKrS7mp.jpeg" group-title="ANIME/CARTOONS👽",ANIPLUS
+https://ott.udptv.net/stream/iptv/aniplus/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6WDdGdB.png" group-title="ANIME/CARTOONS👽",BABY SHARK TV
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiYnK7e.jpeg" group-title="ANIME/CARTOONS👽",BARBIE AND FRIENDS
+https://d1xqdnwy1bo05f.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/09a20cb2-e0e7-4e17-afdb-aa6b35ce6da0/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6FA5Sr.jpeg" group-title="ANIME/CARTOONS👽",BOOMERANG TV
+https://ott.udptv.org/stream/udptvus/boomerang/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/Wyj8Zjb.jpeg" group-title="ANIME/CARTOONS👽",Brat TV
+https://brat-samsung-us.amagi.tv/720p-vtt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CZEIebZ.jpeg" group-title="ANIME/CARTOONS👽",CARTOONITO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mNdqQoc.jpeg" group-title="ANIME/CARTOONS👽",CRUNHYROLL
+https://pluto.xyadx.workers.dev/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8
+#EXTINF:-1 tvg-id="US: CARTOON NETWORK EAST" tvg-name="Cartoon Network UHD" tvg-logo="http://epg4you.com/logos/cartoonnetwork.png" group-title="ANIME/CARTOONS👽",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dfE5Tmh.jpeg" group-title="ANIME/CARTOONS👽",DREAMWORKS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/40E328E7-FE69-4287-86EA-FA942A7EA302/0-16x9.jpg?width=203" group-title="ANIME/CARTOONS👽", DreamWorks Tagalized
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+#EXTINF:-1  tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-channel-us.png?raw=true" group-title="ANIME/CARTOONS👽" radio="false",Disney Channel East
+http://user.scalecdn.co:8080/26725074/92867131/3630
+#EXTINF:-1  tvg-id="Disney.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-channel-us.png?raw=true" group-title="ANIME/CARTOONS👽" radio="false",Disney Channel West
+http://user.scalecdn.co:8080/26725074/92867131/2590
+#EXTINF:-1  tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="ANIME/CARTOONS👽" radio="false",Disney Jr. East
+http://user.scalecdn.co:8080/26725074/92867131/3632
+#EXTINF:-1  tvg-id="Kids.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="ANIME/CARTOONS👽" radio="false",Disney Jr. West
+http://user.scalecdn.co:8080/26725074/92867131/2588
+#EXTINF:-1  tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-xd-us.png?raw=true" group-title="ANIME/CARTOONS👽" radio="false",Disney XD East
+http://user.scalecdn.co:8080/26725074/92867131/2586
+#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/C4X5MLO.png" group-title="ANIME/CARTOONS👽",Free Kids Tv
+https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991107&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=XumoFreeKidsTV&ads.csid=xumo_desktopweb_XumoFreeKidsTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=1&ads.genre=Family%2CComedy%2CAnimation&ads._fw_content_category=IAB6&ads._fw_content_language=undefined&ads._fw_content_genre=Kids&ads._fw_content_rating=TV-G&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeKidsTV&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeKidsTV&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991107&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+#EXTINF:-1  tvg-name="Garfield and Friends" tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" tvg-chno="3910" group-title="ANIME/CARTOONS👽",Garfield and Friends
+https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
+#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/ZHdGydg.png" group-title="ANIME/CARTOONS👽",Kartoon Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99991327/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991327&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=GeniusBrandsNew&ads.csid=xumo_desktopweb_NBCUUniversalCrime_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=1&ads.genre=Family%2CComedy%2CAnimation&ads._fw_content_category=IAB6&ads._fw_content_language=undefined&ads._fw_content_genre=Kids&ads._fw_content_rating=TV-Y7&ads.xumo_contentId=2682&ads.xumo_contentName=GeniusBrandsNew&ads.xumo_providerId=2682&ads.xumo_providerName=GeniusBrandsNew&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991327&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/g0aUnfA.jpeg" group-title="ANIME/CARTOONS👽",Moonbug
+https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tJDY80R.jpeg" group-title="ANIME/CARTOONS👽",MR BEAN 24/7
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/cb5439176573648b84cb3964cef045a5f9661fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87ea341763a1d759999ac7bc089655ce183503528b37b1e51ff0e14c0530a60dcef1510ca6ce6284b43aa4d395560dde45aab274fcd820f8262288af88b7c68295b09825b08eda95aa5fbe75b4c8c3ec3f02668ada39cb2a870adb30e8de48502d912d854ce2eafe393ab48c44fb4bb57d814eb3573284ae129850bf9e758a19aae68308c7421046b3d7a13968c2d12b1733936d6fadcff51fe1ade8c2ccb0065fa68f93e0de745082d65fec1373cd5a868304307848e304034a9e4efbefa3c23b86fc15288b7435196ec1d744bc8228d6c7b78d8cac21a80cc0285f60db1f4384d7690ca05ac94bcd5bbebcd52ca719187e68e67131d324a52cf1d859f6ed026922af89f43710d1d15edbc5cd683df51282d1ed5d11084616ed3b1bc8ad10a34dd735b0bb812be75312c9d64222c9f6893fd1163932f068934478a7e3c9247fab734b5ea9bd20f35b1d1d051bd08cbb019d9e20db9675e0b57ab93cc3ee2c7e2078833b189634348396a0b287cf33a569f30/25/1280x720_3329040/index.m3u8
+#EXTINF:-1  tvg-name="Nick Jr. UK FHD" tvg-id="Nick.Jr..HD.uk" tvg-logo="https://pixvid.org/images/2025/02/27/Nick_Jr.png" group-title="ANIME/CARTOONS👽" radio="false",Nick Jr.
+https://a1xs.vip/1000052
+#EXTINF:-1  tvg-name="Nickelodeon UK FHD" tvg-id="NickelodeonHD.uk" tvg-logo="https://pixvid.org/images/2025/02/27/Nickelodeon.png" group-title="ANIME/CARTOONS👽" radio="false",Nickelodeon
+https://a1xs.vip/1000051
+#EXTINF:-1  tvg-name="Nicktoon UK" tvg-id="Nicktoons.uk" tvg-logo="https://i.imgur.com/X3eFHe6.png" group-title="ANIME/CARTOONS👽" radio="false",Nicktoon
+https://a1xs.vip/100054
+#EXTINF:-1  tvg-name="PokÃ©mon" tvg-id="6675c7868768aa0008d7f1c7" tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" tvg-chno="3805" group-title="ANIME/CARTOONS👽",Pokemon Tv
+https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
+#EXTINF:-1  tvg-name="POP UP" tvg-id="664c953db18d700008fcc158" tvg-logo="https://images.pluto.tv/channels/664c953db18d700008fcc158/colorLogoPNG.png" tvg-chno="892" group-title="ANIME/CARTOONS👽",POP UP
+https://jmp2.uk/plu-664c953db18d700008fcc158.m3u8
+#EXTINF:-1  tvg-name="Retro Crush" tvg-id="65e9ced78145cb00084d6598" tvg-logo="https://images.pluto.tv/channels/65e9ced78145cb00084d6598/colorLogoPNG.png" tvg-chno="783" group-title="ANIME/CARTOONS👽",Retro Crush
+https://jmp2.uk/plu-65e9ced78145cb00084d6598.m3u8
+#EXTINF:-1  tvg-name="SpongeBob SquarePants" tvg-id="63f87d057533d80008ab9549" tvg-logo="https://images.pluto.tv/channels/63f87d057533d80008ab9549/colorLogoPNG.png" tvg-chno="611" group-title="ANIME/CARTOONS👽",SpongeBob SquarePants
+https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
+#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/eXQdHQD.jpeg" group-title="ANIME/CARTOONS👽",Teletubbies
+https://dbrb49pjoymg4.cloudfront.net/10001/99991761/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991761&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=WildBrain&ads.csid=xumo_desktopweb_WildBrain_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Family%2CComedy%2CAnimation&ads._fw_content_category=IAB6&ads._fw_content_language=undefined&ads._fw_content_genre=Kids&ads._fw_content_rating=TV-Y&ads.xumo_contentId=1854&ads.xumo_contentName=WildBrain&ads.xumo_providerId=1854&ads.xumo_providerName=WildBrain&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991761&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PEwof7I.jpeg" group-title="ANIME/CARTOONS👽",TOM AND JERRY 24/7
+http://fortv.cc:8080/38871863/38871863/125635
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ljTMuVR.png" group-title="MOVIE CHANNELS📺",AXN HD 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sZhPY4d.jpeg" group-title="MOVIE CHANNELS📺",BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 tvg-id="US: CINEMAX EAST" tvg-name="Cinemax East UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="MOVIE CHANNELS📺",Cinemax UHD 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+#EXTINF:-1 tvg-id="US: FX EAST" tvg-name="USA FX East UHD" tvg-logo="https://i.imgur.com/1tb2VIn.png" group-title="MOVIE CHANNELS📺",FX 
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="US: FXM" tvg-name="USA FXM UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXM UHD
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="US: FXX EAST" tvg-name="USA FXX East UHD" tvg-logo="https://i.imgur.com/5Z2C9WZ.png" group-title="MOVIE CHANNELS📺",FXX UHD
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l4kbZal.jpeg" group-title="MOVIE CHANNELS📺",HOLLYWOOD MOVIES
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8BB8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="MOVIE CHANNELS📺", Hits HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ACF06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="MOVIE CHANNELS📺", Hits Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
+#EXTINF:-1 tvg-id="US: MOVIEPLEX EAST" tvg-name="MOVIEPLEX  HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/movieplex.png" group-title="MOVIE CHANNELS📺",MOVIEPLEX  HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gtPPX0S.jpeg group-title="MOVIE CHANNELS📺",Baywatch
+https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ze0iYnL.png" group-title="MOVIE CHANNELS📺",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="American.Heroes.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-name="American Heroes Channel",American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-id="US: HBO EAST" tvg-name="HBO East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-usa.png" group-title="MOVIE CHANNELS📺",HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+#EXTINF:-1 tvg-id="US: HBO COMEDY EAST" tvg-name="HBO Comedy UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-comedy-us.png" group-title="MOVIE CHANNELS📺",HBO Comedy UHD
+http://143.244.60.30/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="US: HBO FAMILY EAST" tvg-name="HBO Family UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-family-us.png" group-title="MOVIE CHANNELS📺",HBO Family UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/CEE83EE5-D870-4B3C-9339-ACA7FF4020D0/0-16x9.jpg?width=203" group-title="MOVIE CHANNELS📺", HBO Hits HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+#EXTINF:-1 tvg-id="US: HBO SIGNATURE EAST" tvg-name="HBO Signature UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-signature-us.png" group-title="MOVIE CHANNELS📺",HBO Signature UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+#EXTINF:-1 tvg-id="US: HBO ZONE EAST" tvg-name="HBO Zone UHD" tvg-logo="https://i.imgur.com/UsJxqF4.png" group-title="MOVIE CHANNELS📺",HBO Zone UHD
+http://supersonictv.live:8080/611366/682256/22901
+#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-2-usa.png" group-title="MOVIE CHANNELS📺",HBO2 USA
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNjg5L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gGbiY5u.png" group-title="MOVIE CHANNELS📺",Hi-Yah!
+https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SVJGadO.jpeg" group-title="MOVIE CHANNELS📺",RageTV
+https://stream.gia.tv/giatv/giatv-ragetv/ragetv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="Sony.Movies.us" tvg-logo="https://i.imgur.com/CtHF2pG.jpeg" tvg-name="Sony Movie Channel",Sony Movie Channel
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="Start.TV.us" tvg-logo="https://i.imgur.com/3KeTfBa.jpeg" tvg-name="Start TV",Start TV
+http://fl3.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 tvg-id="US: STARZ EAST" tvg-name="StarZ East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/starz-us.png" group-title="MOVIE CHANNELS📺",StarZ 1
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC790-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="MOVIE CHANNELS📺", Tap Action Flix HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC48E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="MOVIE CHANNELS📺", Tap Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 1
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791636
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 2
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791637
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 3
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791638
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 4 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791639
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 5
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791640
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 6
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791641
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 7 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791642
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 8 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791643
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 9 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791644
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 10 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791645
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 11 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791646
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 12 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791647
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 13 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791648
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 14 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791649
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 15 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791650
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 16 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791651
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 17 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791652
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 18 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791653
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 19 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791654
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 20 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791655
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 21 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791656
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 22
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791657
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 23
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791658
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 24 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791659
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 25 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791660
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 26 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791661
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 27 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791662
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 28 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791663
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 29 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791664
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 30 
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791665
+
+#EXTINF:-1 tvg-id="Sky.Arts.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-arts-uk.png" group-title="Sky Channel",Sky Arts
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02ODMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-atlantic-uk.png" group-title="Sky Channel",Sky Atlantic
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zNjIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Sky.Action.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-action-uk.png" group-title="Sky Channel",Sky Cinema Action
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02NzcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-animation-uk.png" group-title="Sky Channel",Sky Cinema Animation
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02NzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-comedy-uk.png" group-title="Sky Channel",Sky Cinema Comedy
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02NzgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-drama-uk.png" group-title="Sky Channel",Sky Cinema Drama
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02ODAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-family-uk.png" group-title="Sky Channel",Sky Cinema Family
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02NzYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Sky.Greats.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-greats-uk.png" group-title="Sky Channel",Sky Cinema Greats
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02NzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-hits-uk.png" group-title="Sky Channel",Sky Cinema Hits
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02NzMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Sky.Premiere.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-premiere-uk.png" group-title="Sky Channel",Sky Cinema Premiere
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02NzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-sci-fi-horror-uk.png" group-title="Sky Channel",Sky Cinema Sci-Fi Horror
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02ODEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-select-uk.png" group-title="Sky Channel",Sky Cinema Select
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02NzIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-thriller-uk.png" group-title="Sky Channel",Sky Cinema Thriller
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02NzkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-comedy-uk.png" group-title="Sky Channel",Sky Comedy
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02ODQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-crime-uk.png" group-title="Sky Channel",Sky Crime
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02ODUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-history-uk.png" group-title="Sky Channel",Sky History
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02ODYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="Sky.Showcase.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-showcase-uk.png" group-title="Sky Channel",Sky Showcase
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02ODIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-action-uk.png" group-title="Sky Channel",Sky Sports Action
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-arena-uk.png" group-title="Sky Channel",Sky Sports Arena
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNi9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-cricket-uk.png" group-title="Sky Channel",Sky Sports Cricket
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-f1-uk.png" group-title="Sky Channel",Sky Sports F1
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="SkySp.Fball.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-football-uk.png" group-title="Sky Channel",Sky Sports Football
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-golf-uk.png" group-title="Sky Channel",Sky Sports Golf
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03MC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-mix-uk.png" group-title="Sky Channel",Sky Sports MIX
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NDkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-main-event-uk.png" group-title="Sky Channel",Sky Sports Main Event
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-news-uk.png" group-title="Sky Channel",Sky Sports News
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zNjYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-premier-league-uk.png" group-title="Sky Channel",Sky Sports Premier League
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMTMwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="SkySp.Racing.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-racing-uk.png" group-title="Sky Channel",Sky Sports Racing
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01NTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-tennis-uk.png" group-title="Sky Channel",Sky Sports Tennis
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ni9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-witness-uk.png" group-title="Sky Channel",Sky Witness HD
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zNjEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",DZBR Bible Radio 531
+https://stream.radio.co/se9de95c10/listen
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Radio Maria Philippines
+http://dreamsiteradiocp2.com:8052/stream.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",RainbowFM
+https://rainbowfm2020.radioca.st/stream?1587801467850
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Dxki Strong Radio 90.3
+http://67.212.238.178:7007/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",109.1 IDOL FM
+https://cast.jomarhost.com/radio/8090/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",DZRH News AM
+https://streamingv2.shoutcast.com/JamendoLounge
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",97.5 Love Radio Iloilo
+http://loveradio.live24.gr/loveradio-1000
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",101.1 Smash FM
+http://centova57.instainternet.com:8115/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Memories FM 89.9
+http://s5.reliastream.com:7134/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",FReSH FM PH
+https://s36.radiolize.com/radio/8170/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",PHR 80.9 FM
+https://djsamu.radioca.st/stream.nsv
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Music Tambayan
+https://dharkgfx.com/radio/8000/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",CyberPinoy Radio
+https://securestreams.autopo.st:1215/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",COOL FM 90.1
+http://equinox.shoutca.st:8938/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love FM 98.9
+http://centova57.instainternet.com:8179/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Boracay FM
+https://boracayfm.stream.laut.fm/boracayfm?ref=web-app&ampt302=2019-04-09_12-22-23&ampuuid=f6d43b18-d040-49a3-b7af-4ca2f177541a
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Supreme FM 98.1
+http://centova57.instainternet.com:8191/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",997 My Friends FM
+http://trappist.shoutca.st:8171/live
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Mapua Radio Cardinal
+http://edge.mixlr.com/channel/nhtli
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Atlantis
+https://us2.amfmph.com:8080/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",CoolFm Hits 901
+http://equinox.shoutca.st:8938/index.html?sid=1
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",104.9 Rja Foundation FM
+https://cast.jomarhost.com/radio/8100/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Favradio
+http://stream.favhosting.com:8109/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Pinoy Rap Radio
+http://sp2.streams.ovh/8004/stream/stream/1
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Coolfm Rock
+https://mediagw.e-tiger.net/stream/zc10
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Slowly Radio
+https://listen.radioking.com/radio/421816/stream/476452
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Bespren Radio
+http://streamnavs.net:8089/live
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Breezylyn FM
+http://178.netromedia.com:8000/BreezeFM
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",V Hive Radio
+http://192.99.8.192:3154/vhiveradiostream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Party Rock FM
+https://radio21.streamabc.net/radio21-partyrock-mp3-256-7707367
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",23.12 Dimension FM Radio
+https://cast.jomarhost.com/radio/8030/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Troy FM
+https://live.streamguys1.com:2385/troy1
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Green Giant FM
+https://str1.streamhostpg.com.br:8010/stream?1604661148956
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Manila Bay Beach Radio
+https://s4.radio.co/sd319ba2a4/listen
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",97.9 Caerenslovers FM
+https://cast.jomarhost.com/radio/8010/radio.mp3?1639372973514
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Sunshine FM Radio
+https://23203.live.streamtheworld.com/4SFM_SC
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Rock109
+http://listen.classicrock109.com:10042/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Radio Tamaraw Online
+http://audiostreamen.nl:8006/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Roxas
+http://loveradioroxas.radioca.st:8216/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Naga
+http://loveradionaga.radioca.st:8070/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Palawan
+http://loveradiopalawan.radioca.st:8105/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Malaybalay
+http://lovemalaybalay.radioca.st:8828/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Tacloban
+http://lovetacloban.radioca.st:8113/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Zamboanga
+http://lovezamboanga.radioca.st:8157/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Lucena
+http://loveradiolucena.radioca.st:8158/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Baguio
+http://loveradiobaguio.radioca.st:8024/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Bacolod
+http://loveradiobacolod.radioca.st:8088/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Daet
+http://loveradiodaet.radioca.st:8804/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Tuguegarao
+http://lovetuguegarao.radioca.st:8086/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Santiago
+http://lovesantiago.radioca.st:8832/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Catarman
+http://lovecatarman.radioca.st:8796/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Butuan
+https://loveradiobutuan.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Dagupan
+http://loveradiodagupan.radioca.st:8195/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",COOL FM 901
+http://equinox.shoutca.st:8938/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",VHive
+http://192.99.8.192:3154/www.vhiveradio.com/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Exclusively The Everly Brothers Listen live
+https://streaming.exclusive.radio/er/everlybrothers/icecast.audio
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Disco House Радио - RadioSpinner Listen live
+https://live.radiospinner.com/disco-house-64
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",91.9 GUIMARAS KISS FM
+https://stream2.jomarhost.com/listen/91.9_guimaras_kiss_fm/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",AIR FM
+https://stream2.jomarhost.com/listen/air_fm/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",90.7 Love Radio Manila
+https://boracayfm.stream.laut.fm/boracayfm
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",El Shaddai radio
+https://statics-v2.streema.com/static/audios/sample.ea78c3d52389.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Radyo Lipenio - RLNewsFM
+http://stream.zeno.fm/3ninviiwep8uv.m3u
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",TeenRadio Global
+http://radio.org.ph/play/rakista-manila/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Baguio DWMB
+https://loveradiobaguio.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",96.3 Easy Rock - DWRK
+http://s4.radio.co/s778110174/listen
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Wish FM 107.5 - DWNU
+https://untv.mmdlive.lldns.net/untv/f55dcf9ae0f542d6a7614893d0c2dd83/manifest.m3u8
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",RMN Iloilo - DYRI
+http://us1.amfmph.com:8011/live
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Yes! The Best Cebu - DYHR
+http://yesfmcebu.radioca.st:9136/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",RMN Cebu - DYHP
+http://62.138.18.102:8257/stream/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",104.7 Yes The Best - DXYR
+http://yesfmcdo.radioca.st:8040/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",LTM Radio Philippines
+http://cast4.my-control-panel.com:7396/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Crossover
+https://streams.radio.co/s1317e9f68/listen
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",True Life In God Radio Filipino
+https://stream.tligradio.org/listen/filipino/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",MystFM925
+http://eu8.fastcast4u.com:21123/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Destiny9911-fm
+http://cast3.bntworxtv.com:8020/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Radyo Bandera Iloilo - DYKU
+http://209.126.124.126:8647/live
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",89.5 Brigada News FM - DXYM
+http://18.141.67.248:8000/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",96.9 Easy Rock Cagayan de Oro - DXKS
+http://easyrockcagayan.radioca.st:9720/stream/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",RPN-DXKS Surigao - DXKS
+http://dxks-rpnradio.radioca.st:8448/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",99.1 Love Radio Naga - DWYN
+http://loveradionaga.radioca.st:8070/stream/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Yes The Best Dagupan - DWHR
+http://yesfmdagupan.radioca.st:10300/stream/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",99.3 Yes The Best - DXFE-FM
+http://yesfmiligan.radioca.st:8181/stream/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Hugot Radio 2.0
+http://65.108.124.70:8497/stream/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Yes The Best Urdaneta - DZVM
+http://yesfmurdaneta.radioca.st:8258/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",The Ranch FM - DYME-FM
+http://206.190.130.182:8004/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Anime Alliance Online Radio
+https://s3.citrus3.com:8010/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Cathedral of Praise Bible Radio - DZBR
+http://stream.radio.co/se9de95c10/listen
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",14.3 Global Online Radio
+http://65.108.124.70:8255/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",91.9 Radyo Natin - DWSG
+http://stream.radyonatinfm.com:8010/dwsg
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",105.1 Easy Rock Davao - DXYS
+http://easyrockdavao.radioca.st:8285/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",104,7 SCAF FM
+http://radio1.reans.net:8000/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",102.7 Yes The Best - DXHT
+http://yesfmzamboanga.radioca.st:8313/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",XFM 96.7 Bacolod
+http://209.126.124.126:8684/live
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio 95.1 - DXMB
+http://loveradiobutuan.radioca.st:8091/stream/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Yes! The Best Dumaguete - DYYD
+http://yesfmdumaguete.radioca.st:8406/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",POP Radio
+http://ssl.geckohost.nz:9267/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",95.3 Love Radio - DWKS
+https://loveradiodaet.radioca.st/stream/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",FMR Tagum
+http://de3.amfmph.com:8679/live
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Yes! The Best Valencia - DXAT
+http://yesfmvalencia.radioca.st:8231/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",102.7 YES FM Zamboanga
+http://yesfmzamboanga.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Boracay FM laut.fm
+http://boracayfm.stream.laut.fm/boracayfm?ref=vtuner
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",CoolFm Hits
+http://equinox.shoutca.st:8938
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Crossover Radio Online
+http://streams.radio.co/s1317e9f68/listen
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",DWMB 95.1 FM Love Radio Baguio
+http://loveradiobaguio.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",LivingWord.PH iRadio
+http://loveradiobutuan.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Cebu
+http://loveradiocebu.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Legaspi
+http://loveradiolegaspi.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Tarlac
+http://loveradiotarlac.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radyo Laoag
+http://loveradiolaoag.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Radio Maria Philippines 102.1 FM
+http://dreamsiteradiocp2.com:8052/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Yes FM - Boracay
+http://yesfmboracay.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",101.5 Love Radio – DXWK
+http://loveradiogensan.radioca.st:8021/stream/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",105.7 Love Radio Roxas – DYML
+http://loveradioroxas.radioca.st
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",97.7 Love Radio Tarlac – DZLT
+http://loveradiotarlac.radioca.st
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Baguio – DWMB
+http://loveradiobaguio.radioca.st:8024/stream/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Yes! The Best Boracay – DYYR
+http://yesfmboracay.radioca.st:8253/stream/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Yes! The Best Cagayan De Oro – DXYR
+http://yesfmcdo.radioca.st:8040/stream/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Yes! The Best Dumaguete – DYYD
+http://yesfmdumaguete.radioca.st:8406/stream/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Kirubai FM - Tamil
+https://lovesantiago.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Chernestardreamer Online Radio
+https://cast.jomarhost.com/radio/8000/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Coolfm90.1
+https://streams.radio.co/s1317e9f68/listen?type=.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",DXKI Strong Radio 90.3
+http://67.212.238.178:7007/stream.nsv
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",DYRI
+https://us1.amfmph.com:8011/live
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Energy
+http://stream.hornhost.com:8109/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Loud Radio
+http://centova57.instainternet.com:8179/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Love Radio Tacloban DYTM 91.1
+https://lovetacloban.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Radyo Magkaisa 98.1 FM
+http://s32.myradiostream.com:7202/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Sabik FM
+http://nebula.shoutca.st:8334/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Uragon Hot Radio 99.8
+https://eu10.fastcast4u.com/uragon98
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",V-Hive
+http://192.99.8.192:3154/www.vhiveradio.com
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",OK-FM 97.5 DZOK-FM
+http://120.28.221.139:8000/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Easy RocK
+https://easyrockcebu.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Immortalfm
+http://trappist.shoutca.st:8165/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Yes The Best 91.5
+https://yesfmcebu.radioca.st/stream.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Buangons
+https://usa19.fastcast4u.com:6890/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Spirit FM 103.9
+https://popvip-gecko.radioca.st/stream/1/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",ICPRM Network Group Station – Laoag – Ilocos – PH
+https://stream.zenolive.com/4prwagzv9s5tv.pls
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Pinoy Global Stream – Manila – National Capital Region – PH
+https://stream.zenolive.com/qunkzrt2qvduv.pls
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",105.8 Loving Arms FM – 105.8 FM – PH
+https://cast3.bntworxtv.com/listen/sonata_fm/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",104.7 Scaf FM – Manila – National Capital Region – PH
+https://radio1.reans.net/radio/8000/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Laoag City Radio (LCR-FM) – Manila – National Capital Region – PH
+https://stream.zenolive.com/8w7hpc4gh1duv.m3u
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Crossover Radio Online – PH
+https://streams.radio.co/s1317e9f68/low?type=.aac
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",WILD HEART FM 97.1 – Manila – National Capital Region – PH
+https://eu10.fastcast4u.com/wildheart
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",88.9 OFW Cool Radio – 88.9 FM – PH
+https://radio.hornhost.com/8066/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Elite Reborn FM – Manila – National Capital Region – PH
+http://radio.eliterebornfm.com:8230/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",10.27 WOL FM – Cebu City – Central Visayas – PH
+https://stream.hornhost.com/8020/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Hot FM 96.3 – 96.3 FM – Zamboanga City – Zamboanga Peninsula – PH
+https://stream.hornhost.com/8052/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",zRadio – San Carlos – Central Luzon – PH
+http://streamnavs.net:8091/live
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",ICPRM Radio Metro Manila – Dagupan – Cagayan Valley – PH
+https://stream.zenolive.com/89fuftdzyy5tv.pls
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Pinoy DJ Radio – PH
+http://usa4.fastcast4u.com:5276/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Soundwave 88.8 – 88.8 FM – PH
+https://cast.bntworxtv.com/radio/8020/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",DYHB RMN Bacolod – Bacolod City – Western Visayas – PH
+https://us2.amfmph.com:8848/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",SVA Radio – Manila – National Capital Region – PH
+https://stream.zenolive.com/4uvhk732g9duv.pls
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Big Sound FM – La Union – Davao – PH
+http://www.bigsoundfm.com:2199/tunein/dwaa-stream.pls
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",92.3 Easy Rock Iloilo – 92.3 FM – Iloilo City – Western Visayas – PH
+https://easyrockiloilo.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Lovesick versus Dollars FM – Manila – National Capital Region – PH
+http://centova57.instainternet.com:8099/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Angels FM – PH
+http://cast2.my-control-panel.com:8557/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",CRI Millennial Gospel Radio – Manila – National Capital Region – PH
+https://stream.zenolive.com/q1uwefuf4ceuv.pls
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Spirit FM 101.7 – 101.7 FM – Baler – Central Luzon – PH
+https://us1.amfmph.com:8559/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Guimaras Worldwide Radio FM – 102.7 FM – Iloilo City – Western Visayas – PH
+https://dharkgfx.com/listen/guimarasworldwidefm/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",105.1 Easy Rock Davao – 105.1 FM – Davao City – Davao – PH
+https://easyrockdavao.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",PHR 80.9 FM – 80.9 FM – Batangas – Calabarzon – PH
+http://philae.shoutca.st:8188
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",TPPFM – Legazpi – Bicol – PH
+http://streamnavs.net:8143/live
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",RainbowFM – PH
+https://rainbowfm2020.radioca.st/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Mapúa Radio Cardinal – Manila – National Capital Region – PH
+https://edge.mixlr.com/channel/nhtli
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",POP Radio – Manila – National Capital Region – PH
+https://popvip-gecko.radioca.st/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",KissPinas 102.7 FM – 102.7 FM – Mandaluyong City – National Capital Region – PH
+https://stream.zeno.fm/gdh4m7vsebruv.m3u
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Wows Radio Station 91.5 – 91.5 FM – Manila – National Capital Region – PH
+https://stream.hornhost.com/8022/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",YES! The Best Cebu 91.5 – 91.5 FM – Cebu City – Central Visayas – PH
+https://yesfmcebu.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Radyo Katipunan – Quezon City – National Capital Region – PH
+https://listen.shoutcast.com/radyokatipunan.m3u
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",101.7 OFW Tambayan FM – 101.7 FM – Manila – National Capital Region – PH
+https://cast.bntworxtv.com/listen/101.7ofwtambayanfm/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Supreme Radio 99.7 FM – 99.7 FM – PH
+https://stream.hornhost.com/8046/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",YES! The Best Iligan 99.3 – 99.3 FM – Iligan City – Soccsksargen – PH
+https://yesfmiligan.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",15.5 T.L.C.S.P PINOY FM – PH
+https://stream.hornhost.com/8014/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",201.9 Adzaa Online Radio FM – PH
+https://stream.hornhost.com/8016/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",TSSA FM Radio – Singapore – PH
+https://usa10.fastcast4u.com/tssa
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",DZMM Radio Patrol 630 – 630 AM – Quezon City – National Capital Region – PH
+https://stream.zeno.fm/vcv559su7mruv.m3u
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Radyo Natin Brooke’s Point – Puerto Princesa City – Mimaropa – PH
+https://xcite.radyonatinfm.com/listen/brookespoint/radio
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Einnz Online Radio – Manila – National Capital Region – PH
+https://dharkgfx.com/listen/einnz/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",JAMZ RADIO Philippines – Mandaluyong City – National Capital Region – PH
+https://stream.zenolive.com/yu7rwcq3wy5tv.pls
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",CHRK-DB Manila (HD) – Manila – National Capital Region – PH
+http://cheetah.streemlion.com:1730/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Valor FM – Manila – National Capital Region – PH
+http://radio.valorfm.net:8030/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",SPIRITLOVEFM – Manila – National Capital Region – PH
+https://cast.bntworxtv.com/radio/8030/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",RMN Radyo lloilo – Iloilo City – Western Visayas – PH
+https://us1.amfmph.com:8011/mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",99.9 Star Light FM – 99.9 FM – Antipolo – Western Visayas – PH
+https://cast.bntworxtv.com/radio/8010/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Islamic Radio Filipino / Tagalog – PH
+http://104.7.66.64:8009/?icy=http
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",CyberPinoy Radio – Pinugay – Calabarzon – PH
+https://securestreams.autopo.st:1215
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",ONE FM – Manila – National Capital Region – PH
+http://radio3.reans.net:8030/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",104.2 MIX LOVER’S FM – 104.2 FM – Manila – National Capital Region – PH
+https://stream.hornhost.com/8036/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",98.3 Love Radio Dagupan – 98.3 FM – Dagupan – Cagayan Valley – PH
+https://loveradiodagupan.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Bespren Radio – PH
+https://streamnavs.net:8089/live
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Vine Radio 88.9 – 88.9 FM – Manila – National Capital Region – PH
+http://cast2.my-control-panel.com:8091
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Achieve FM – Manila – National Capital Region – PH
+http://radio.achievefm.com:8200/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",YES! The Best Dagupan 106.3 – 106.3 FM – Dagupan – Cagayan Valley – PH
+https://yesfmdagupan.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",AFK Radio Rocks – Cebu City – Central Visayas – PH
+http://107.152.38.38:8000/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",102.7 Love Radio Fm – 102.7 FM – PH
+https://radio.hornhost.com/8068/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",97.1 Solid Love FM – Manila – National Capital Region – PH
+https://azura.971solidlovefm.com/radio/8120/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",106.7 Radyo Natin Agoo – 106.7 FM – Agoo – Ilocos – PH
+https://pinas.radyonatinfm.com/listen/dwis/agoo
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Mellow 94.7 FM – 94.7 FM – Mandaluyong City – National Capital Region – PH
+https://s3.free-shoutcast.com/stream/18342/?type=http&nocache=40
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",PRIMAP 108 FM – 108 FM – PH
+https://zeno.fm/radio/primap-108-fm/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",93.5 Easy Rock Boracay – 93.5 FM – Kalibo Town – Western Visayas – PH
+https://easyrockboracay.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Yes FM Dagupan 106.3 – 106.3 FM – Dagupan – Cagayan Valley – PH
+http://chandra.shoutca.st:10300/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",JAKXFM Radio – PH
+https://de3.amfmph.com:8150/stream?time=1519230990208
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Pinoy Radio – Filipino Radio – PH
+https://usa5.fastcast4u.com:2199/tunein/-stream/mcbnprc.pls
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",88.7 Love Music Radio – 88.7 FM – PH
+http://radio.7lovemusicradio.net:8050/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",YES! The Best Valencia 104.1 – 104.1 FM – Valencia – Northern Mindanao – PH
+https://yesfmvalencia.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Radio NE FM 100.3 – 100.3 FM – Cabanatuan City – Central Luzon – PH
+https://stream.zenolive.com/k2uz08e71ueuv.pls
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Beat FM 102.9 – 102.9 FM – Zamboanga City – Zamboanga Peninsula – PH
+https://stream.hornhost.com/8058/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",MSFM 105.3 – 105.3 FM – Catbalogan – Eastern Visayas – PH
+http://209.126.105.44:8219/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",KLASSfm – Iloilo City – Western Visayas – PH
+https://klassfm.radioca.st
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",DYRN – Radio Natin 90.9 Laoang – 90.9 FM – PH
+https://io.radyonatinfm.com/listen/dyrn/laoang
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Brigada News FM Gensan – PH
+http://18.141.67.248:8000/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",101.7 Love Radio La Union – 101.7 FM – La Union – Davao – PH
+https://loveradiolaunion.radioca.st/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Mixx Radio Fm
+http://mixxradiodjsonline.listen2myradio.com/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Rpm Net Radio
+http://station.voscast.com/522ea9678af62/
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Radical Edge
+http://www.radicaledge.listen2myradio.com
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Dance Radio Philippines
+http://us1.amfmph.com:8518/autodj
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Barangay RT radio
+https://www.gmanetwork.com/radio/streaming/dwls
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Seduction Dance Tunes Radio
+https://24streams.gr/8057/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",98.4 Love Fm radio
+https://cast.jomarhost.com/listen/98.4_love_fm/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Jmj Pasaway Fm Radio
+https://cast.jomarhost.com/listen/jmj_pasaway_/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Favradio, Manila radio
+https://stream.hornhost.com/8109/stream.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",91.5 Wows Radio Station
+https://stream.hornhost.com:8022/stream.nsv
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",OperaHouseFM101 radio
+https://radio.hornhost.com/8052/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",101.7 Your Love FM radio
+https://chloreign.com/listen/sanibpwersa/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",02.6 FM BISDAK LAMION TAMBAYAN radio
+https://radio.hornhost.com/8044/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",ZNS Pinoy Online Radio
+https://fast.citrus3.com:8484/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",guimaraskissfm radio
+https://dharkgfx.com/radio/8010/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",89.7 Touch Fm, Quezon City radio
+https://stream.hornhost.com/8126/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Cool radio
+https://coolfmhits.radioca.st/stream
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Like FM 105.9 radio
+https://neoretro.mixlr.com/events/2890639
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",RVFM radio
+https://a3.asurahosting.com:6160/radio.mp3
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",Radyo Natin - Pinamalayan radio
+https://sound.radyonatinfm.com/listen/dwmk/pinamalayan
+#EXTINF:-1 group-title="RADIO CHANELS🇵🇭",97.9 Caerens Lovers Fm
+https://cast.jomarhost.com/radio/8010/radio.mp3
