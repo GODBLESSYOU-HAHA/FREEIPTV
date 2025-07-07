@@ -290,10 +290,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
-#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/40E328E7-FE69-4287-86EA-FA942A7EA302/0-16x9.jpg?width=203" group-title="ANIME/CARTOONS👽", DreamWorks Tagalized
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+
 #EXTINF:-1  tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-channel-us.png?raw=true" group-title="ANIME/CARTOONS👽" radio="false",Disney Channel East
 http://user.scalecdn.co:8080/26725074/92867131/3630
 #EXTINF:-1  tvg-id="Disney.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-channel-us.png?raw=true" group-title="ANIME/CARTOONS👽" radio="false",Disney Channel West
@@ -330,8 +327,6 @@ https://jmp2.uk/plu-65e9ced78145cb00084d6598.m3u8
 https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
 #EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/eXQdHQD.jpeg" group-title="ANIME/CARTOONS👽",Teletubbies
 https://dbrb49pjoymg4.cloudfront.net/10001/99991761/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991761&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=WildBrain&ads.csid=xumo_desktopweb_WildBrain_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Family%2CComedy%2CAnimation&ads._fw_content_category=IAB6&ads._fw_content_language=undefined&ads._fw_content_genre=Kids&ads._fw_content_rating=TV-Y&ads.xumo_contentId=1854&ads.xumo_contentName=WildBrain&ads.xumo_providerId=1854&ads.xumo_providerName=WildBrain&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991761&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PEwof7I.jpeg" group-title="ANIME/CARTOONS👽",TOM AND JERRY 24/7
-http://fortv.cc:8080/38871863/38871863/125635
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljTMuVR.png" group-title="MOVIE CHANNELS📺",AXN HD 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
