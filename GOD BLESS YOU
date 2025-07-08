@@ -201,10 +201,7 @@ http://restream-live.realiptv.to:8080/live/xmltv/02a162774b/330920.m3u8
 https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ahY2dV.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Museum TV Fast
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="US: NATIONAL GEOGRAPHIC EAST" tvg-name="National Geographic East UHD" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",USA National Geographic
-https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMjgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="US: NATIONAL GEOGRAPHIC EAST" tvg-name="USA National Geographic Wild East UHD" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",National Geographic Wild
-https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NDUvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1  tvg-name="ONE Championship TV" tvg-id="668c5d3bfd9eb2000882bb50" tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" tvg-chno="2875" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ONE Championship TV
 https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YAMQ5xA.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",People are Awesome
@@ -253,11 +250,6 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/QC8ZPjB.jpeg" group-title="NEWS/ENTERTAI
 https://dbrb49pjoymg4.cloudfront.net/10001/99951129/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951129&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=WipeoutXtra&ads.csid=xumo_desktopweb_WipeoutXtra_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Game%20Show%2CFamily&ads._fw_content_category=IAB1-7&ads._fw_content_language=undefined&ads._fw_content_genre=Game%20Shows&ads._fw_content_rating=TV-Y7&ads.xumo_contentId=3543&ads.xumo_contentName=WipeoutXtra&ads.xumo_providerId=3543&ads.xumo_providerName=WipeoutXtra&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99951129&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.1&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RMCiKT.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Wonder TV
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/wwe-network.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",WWE Network
-https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zNzYvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/fUam5al.jpeg" group-title="ANIME/CARTOONS👽",All Babies Channel
-https://dbrb49pjoymg4.cloudfront.net/10001/99991253/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991253&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=HooplaKids&ads.csid=xumo_desktopweb_HooplaKids_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=1&ads.genre=Family%2CComedy%2CAnimation&ads._fw_content_category=IAB6&ads._fw_content_language=undefined&ads._fw_content_genre=Kids&ads._fw_content_rating=TV-Y&ads.xumo_contentId=186&ads.xumo_contentName=HooplaKids&ads.xumo_providerId=186&ads.xumo_providerName=HooplaKids&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991253&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E9A4Jde.jpeg" group-title="ANIME/CARTOONS👽",ANIMAX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
