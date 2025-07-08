@@ -258,8 +258,6 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhWvdEz.jpeg" group-title="ANIME/CARTOONS👽",ANIME * HIDAVE
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/192.m3u8
-#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/rKrS7mp.jpeg" group-title="ANIME/CARTOONS👽",ANIPLUS
-https://ott.udptv.net/stream/iptv/aniplus/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6WDdGdB.png" group-title="ANIME/CARTOONS👽",BABY SHARK TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiYnK7e.jpeg" group-title="ANIME/CARTOONS👽",BARBIE AND FRIENDS
